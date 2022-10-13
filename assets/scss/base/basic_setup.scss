@@ -12,11 +12,11 @@ img {
 a {
     text-decoration: none;
     outline: none;
-    color: #444;
+    color: #aea493;
 }
 
 a:hover {
-    color: #444;
+    color: #aea493;
 }
 
 ul {
@@ -172,7 +172,7 @@ body{
         font-size: 28px;
         width: 100%;
         font-weight: 700;
-        color: #444;
+        color: #aea493;
         @media screen and (max-width: 600px){
             font-size: 26px;
         }
@@ -184,35 +184,35 @@ body{
         font-size: 16px;
         font-size: .93rem;
         font-weight: 600;
-        color: #444;
+        color: #aea493;
         i{
             width: 30px;
             text-align: center;
-            color: #444;
+            color: #aea493;
             
 
         }
         a{
-            color: #444;
+            color: #aea493;
             font-size: .93rem;
             font-weight: 600;
         }
     }
 }
 .btn-success{
-	background-color: #51be78;
-	border-color: #51be78;
+	background-color:#eb3236;
+  border-color: #eb3236;
 	&:hover{
-		background-color: #51be78 !important;
-		border-color: #51be78 !important;
+		background-color: #eb3236 !important;
+		border-color: #eb3236 !important;
 	}
 	&:active{
-		background-color: #51be78 !important;
-		border-color: #51be78 !important;
+		background-color: #eb3236!important;
+		border-color: #eb3236 !important;
 	}
 	&:focus{
-		background-color: #51be78 !important;
-		border-color: #51be78 !important;
+		background-color: #eb3236 !important;
+		border-color: #eb3236 !important;
 		box-shadow: none !important;
 	}
 }
